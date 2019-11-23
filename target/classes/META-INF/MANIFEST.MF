@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Gym Project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Pedro Henrique
+Implementation-Vendor-Id: br.com.unifacisa.pp.gym
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/GymProject
+Created-By: Maven Integration for Eclipse
+
